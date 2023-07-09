@@ -1,7 +1,11 @@
-h1{
-    text-align: center;
-    background-color: lightcyan;
+* {
+   background-color: coral; 
 }
+
+h1{
+    text-align:center;
+}
+
 img{
     width: auto;
     height: 400px;
